@@ -21,9 +21,9 @@ const Testimonials = () => {
             />
             <h5 className="text-lg font-bold">Richard Watts</h5>
             <p className="text-sm text-darkGrayishBlue">
-              "Manage has supercharged our team's workflow. The ability to
+              &quot;Manage has supercharged our team's workflow. The ability to
               maintain visibility on larger milestones at all times keeps
-              everyone motivated."
+              everyone motivated.&quot;
             </p>
           </div>
           <div className="shadow-md mt-20 md:mt-0 flex flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:w-1/3">
@@ -36,9 +36,9 @@ const Testimonials = () => {
             />
             <h5 className="text-lg font-bold">Anisha Li</h5>
             <p className="text-sm text-darkGrayishBlue">
-              "Manage has supercharged our team's workflow. The ability to
+              &quot;Manage has supercharged our team's workflow. The ability to
               maintain visibility on larger milestones at all times keeps
-              everyone motivated."
+              everyone motivated.&quot;
             </p>
           </div>
           <div className="shadow-md mt-20 md:mt-0 flex flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:w-1/3">
@@ -51,9 +51,9 @@ const Testimonials = () => {
             />
             <h5 className="text-lg font-bold">Ali Bravo</h5>
             <p className="text-sm text-darkGrayishBlue">
-              "We have been able to cancel so many other subscriptions since
-              using Manage. There is no more cross-channel confusion and
-              everyone is much more focused."
+              &quot;We have been able to cancel so many other subscriptions
+              since using Manage. There is no more cross-channel confusion and
+              everyone is much more focused.&quot;
             </p>
           </div>
         </div>
