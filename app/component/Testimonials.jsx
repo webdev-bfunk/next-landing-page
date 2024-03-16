@@ -21,7 +21,7 @@ const Testimonials = () => {
             />
             <h5 className="text-lg font-bold">Richard Watts</h5>
             <p className="text-sm text-darkGrayishBlue">
-              Manage has supercharged our team's workflow. The ability to
+              Manage has supercharged our teams workflow. The ability to
               maintain visibility on larger milestones at all times keeps
               everyone motivated.
             </p>
@@ -36,7 +36,7 @@ const Testimonials = () => {
             />
             <h5 className="text-lg font-bold">Anisha Li</h5>
             <p className="text-sm text-darkGrayishBlue">
-              Manage has supercharged our team's workflow. The ability to
+              Manage has supercharged our teams workflow. The ability to
               maintain visibility on larger milestones at all times keeps
               everyone motivated.
             </p>
